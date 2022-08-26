@@ -1,0 +1,22 @@
+@use "../utils/variables" as *;
+
+@mixin offer {
+    height: 500px;
+    background-color: $primary-background-color;
+    width: 100%;
+}
+
+@mixin offer_one {
+    display: flex;
+    height: 100px;
+    width: 90%;
+}
+
+@mixin offer_one--img {
+    height: 70px;
+    width: 100%;
+}
+
+@mixin offer_text {
+    width: 50%;
+}

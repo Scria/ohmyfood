@@ -1,0 +1,13 @@
+.button {
+  height: 40px;
+  width: 80%;
+  box-shadow: 5px 5px 10px black;
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+  height: 40px;
+}
+
+/*# sourceMappingURL=style.css.map */

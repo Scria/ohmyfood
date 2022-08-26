@@ -1,0 +1,7 @@
+@use "../utils/variables" as *;
+
+.button {
+    height: 40px;
+    width: 80%;
+    box-shadow: $box-shadow-button;
+}
